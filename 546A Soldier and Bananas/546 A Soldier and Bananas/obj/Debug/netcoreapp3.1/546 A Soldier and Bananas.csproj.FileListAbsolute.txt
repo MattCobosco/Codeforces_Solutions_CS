@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\bin\Debug\netcoreapp3.1\546 A Soldier and Bananas.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\bin\Debug\netcoreapp3.1\546 A Soldier and Bananas.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\bin\Debug\netcoreapp3.1\546 A Soldier and Bananas.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\bin\Debug\netcoreapp3.1\546 A Soldier and Bananas.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\bin\Debug\netcoreapp3.1\546 A Soldier and Bananas.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\bin\Debug\netcoreapp3.1\546 A Soldier and Bananas.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\obj\Debug\netcoreapp3.1\546 A Soldier and Bananas.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\obj\Debug\netcoreapp3.1\546 A Soldier and Bananas.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\obj\Debug\netcoreapp3.1\546 A Soldier and Bananas.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\obj\Debug\netcoreapp3.1\546 A Soldier and Bananas.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\obj\Debug\netcoreapp3.1\546 A Soldier and Bananas.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\obj\Debug\netcoreapp3.1\546 A Soldier and Bananas.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\546 A Soldier and Bananas\546 A Soldier and Bananas\obj\Debug\netcoreapp3.1\546 A Soldier and Bananas.genruntimeconfig.cache

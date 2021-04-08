@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\bin\Debug\netcoreapp3.1\467A George and Accommodation.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\bin\Debug\netcoreapp3.1\467A George and Accommodation.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\bin\Debug\netcoreapp3.1\467A George and Accommodation.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\bin\Debug\netcoreapp3.1\467A George and Accommodation.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\bin\Debug\netcoreapp3.1\467A George and Accommodation.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\bin\Debug\netcoreapp3.1\467A George and Accommodation.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\obj\Debug\netcoreapp3.1\467A George and Accommodation.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\obj\Debug\netcoreapp3.1\467A George and Accommodation.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\obj\Debug\netcoreapp3.1\467A George and Accommodation.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\obj\Debug\netcoreapp3.1\467A George and Accommodation.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\obj\Debug\netcoreapp3.1\467A George and Accommodation.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\obj\Debug\netcoreapp3.1\467A George and Accommodation.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\467A George and Accommodation\467A George and Accommodation\obj\Debug\netcoreapp3.1\467A George and Accommodation.genruntimeconfig.cache

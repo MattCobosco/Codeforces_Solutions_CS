@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\bin\Debug\netcoreapp3.1\1118A Water Buying.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\bin\Debug\netcoreapp3.1\1118A Water Buying.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\bin\Debug\netcoreapp3.1\1118A Water Buying.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\bin\Debug\netcoreapp3.1\1118A Water Buying.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\bin\Debug\netcoreapp3.1\1118A Water Buying.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\bin\Debug\netcoreapp3.1\1118A Water Buying.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\obj\Debug\netcoreapp3.1\1118A Water Buying.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\obj\Debug\netcoreapp3.1\1118A Water Buying.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\obj\Debug\netcoreapp3.1\1118A Water Buying.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\obj\Debug\netcoreapp3.1\1118A Water Buying.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\obj\Debug\netcoreapp3.1\1118A Water Buying.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\obj\Debug\netcoreapp3.1\1118A Water Buying.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1118A Water Buying\1118A Water Buying\obj\Debug\netcoreapp3.1\1118A Water Buying.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\bin\Debug\netcoreapp3.1\1196 A Three Piles of Candies.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\bin\Debug\netcoreapp3.1\1196 A Three Piles of Candies.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\bin\Debug\netcoreapp3.1\1196 A Three Piles of Candies.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\bin\Debug\netcoreapp3.1\1196 A Three Piles of Candies.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\bin\Debug\netcoreapp3.1\1196 A Three Piles of Candies.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\bin\Debug\netcoreapp3.1\1196 A Three Piles of Candies.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\obj\Debug\netcoreapp3.1\1196 A Three Piles of Candies.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\obj\Debug\netcoreapp3.1\1196 A Three Piles of Candies.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\obj\Debug\netcoreapp3.1\1196 A Three Piles of Candies.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\obj\Debug\netcoreapp3.1\1196 A Three Piles of Candies.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\obj\Debug\netcoreapp3.1\1196 A Three Piles of Candies.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\obj\Debug\netcoreapp3.1\1196 A Three Piles of Candies.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1196 A Three Piles of Candies\1196 A Three Piles of Candies\obj\Debug\netcoreapp3.1\1196 A Three Piles of Candies.genruntimeconfig.cache

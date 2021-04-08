@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "996A Hit the Lottery/1.0.0": {
+        "runtime": {
+          "996A Hit the Lottery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "996A Hit the Lottery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\bin\Debug\netcoreapp3.1\271A Beautiful Year.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\bin\Debug\netcoreapp3.1\271A Beautiful Year.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\bin\Debug\netcoreapp3.1\271A Beautiful Year.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\bin\Debug\netcoreapp3.1\271A Beautiful Year.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\bin\Debug\netcoreapp3.1\271A Beautiful Year.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\bin\Debug\netcoreapp3.1\271A Beautiful Year.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\obj\Debug\netcoreapp3.1\271A Beautiful Year.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\obj\Debug\netcoreapp3.1\271A Beautiful Year.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\obj\Debug\netcoreapp3.1\271A Beautiful Year.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\obj\Debug\netcoreapp3.1\271A Beautiful Year.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\obj\Debug\netcoreapp3.1\271A Beautiful Year.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\obj\Debug\netcoreapp3.1\271A Beautiful Year.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\271A Beautiful Year\271A Beautiful Year\obj\Debug\netcoreapp3.1\271A Beautiful Year.genruntimeconfig.cache

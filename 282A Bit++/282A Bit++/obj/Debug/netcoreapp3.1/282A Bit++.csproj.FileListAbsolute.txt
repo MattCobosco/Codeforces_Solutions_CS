@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\bin\Debug\netcoreapp3.1\282A Bit++.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\bin\Debug\netcoreapp3.1\282A Bit++.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\bin\Debug\netcoreapp3.1\282A Bit++.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\bin\Debug\netcoreapp3.1\282A Bit++.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\bin\Debug\netcoreapp3.1\282A Bit++.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\bin\Debug\netcoreapp3.1\282A Bit++.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\obj\Debug\netcoreapp3.1\282A Bit++.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\obj\Debug\netcoreapp3.1\282A Bit++.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\obj\Debug\netcoreapp3.1\282A Bit++.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\obj\Debug\netcoreapp3.1\282A Bit++.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\obj\Debug\netcoreapp3.1\282A Bit++.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\obj\Debug\netcoreapp3.1\282A Bit++.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\282A Bit++\282A Bit++\obj\Debug\netcoreapp3.1\282A Bit++.genruntimeconfig.cache

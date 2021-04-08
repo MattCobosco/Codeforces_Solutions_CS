@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1186A Vus the Cossack and a Contest", "1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest.csproj", "{58818E6A-7332-4AB7-94CC-A16006E96F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58818E6A-7332-4AB7-94CC-A16006E96F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58818E6A-7332-4AB7-94CC-A16006E96F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58818E6A-7332-4AB7-94CC-A16006E96F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58818E6A-7332-4AB7-94CC-A16006E96F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCD813C-D9B9-4DB4-959F-29B68F0398ED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\bin\Debug\netcoreapp3.1\226A Stones on the Table.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\bin\Debug\netcoreapp3.1\226A Stones on the Table.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\bin\Debug\netcoreapp3.1\226A Stones on the Table.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\bin\Debug\netcoreapp3.1\226A Stones on the Table.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\bin\Debug\netcoreapp3.1\226A Stones on the Table.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\bin\Debug\netcoreapp3.1\226A Stones on the Table.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\obj\Debug\netcoreapp3.1\226A Stones on the Table.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\obj\Debug\netcoreapp3.1\226A Stones on the Table.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\obj\Debug\netcoreapp3.1\226A Stones on the Table.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\obj\Debug\netcoreapp3.1\226A Stones on the Table.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\obj\Debug\netcoreapp3.1\226A Stones on the Table.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\obj\Debug\netcoreapp3.1\226A Stones on the Table.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\226A Stones on the Table\226A Stones on the Table\obj\Debug\netcoreapp3.1\226A Stones on the Table.genruntimeconfig.cache

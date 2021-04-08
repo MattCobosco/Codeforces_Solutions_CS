@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\bin\Debug\netcoreapp3.1\791A Bear and Big Brother.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\bin\Debug\netcoreapp3.1\791A Bear and Big Brother.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\bin\Debug\netcoreapp3.1\791A Bear and Big Brother.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\bin\Debug\netcoreapp3.1\791A Bear and Big Brother.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\bin\Debug\netcoreapp3.1\791A Bear and Big Brother.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\bin\Debug\netcoreapp3.1\791A Bear and Big Brother.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\obj\Debug\netcoreapp3.1\791A Bear and Big Brother.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\obj\Debug\netcoreapp3.1\791A Bear and Big Brother.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\obj\Debug\netcoreapp3.1\791A Bear and Big Brother.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\obj\Debug\netcoreapp3.1\791A Bear and Big Brother.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\obj\Debug\netcoreapp3.1\791A Bear and Big Brother.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\obj\Debug\netcoreapp3.1\791A Bear and Big Brother.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\791A Bear and Big Brother\791A Bear and Big Brother\obj\Debug\netcoreapp3.1\791A Bear and Big Brother.genruntimeconfig.cache

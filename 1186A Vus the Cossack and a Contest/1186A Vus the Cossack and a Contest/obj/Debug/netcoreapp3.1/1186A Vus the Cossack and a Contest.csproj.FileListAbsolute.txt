@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\bin\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\bin\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\bin\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\bin\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\bin\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\bin\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\obj\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\obj\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\obj\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\obj\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\obj\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\obj\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1186A Vus the Cossack and a Contest\1186A Vus the Cossack and a Contest\obj\Debug\netcoreapp3.1\1186A Vus the Cossack and a Contest.genruntimeconfig.cache

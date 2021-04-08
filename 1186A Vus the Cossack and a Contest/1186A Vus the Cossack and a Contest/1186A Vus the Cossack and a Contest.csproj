@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1186A_Vus_the_Cossack_and_a_Contest</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50A Domino piling", "50A Domino piling\50A Domino piling.csproj", "{A4E1C7DD-F3F3-4604-8DEE-2CA7A57B3EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4E1C7DD-F3F3-4604-8DEE-2CA7A57B3EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E1C7DD-F3F3-4604-8DEE-2CA7A57B3EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E1C7DD-F3F3-4604-8DEE-2CA7A57B3EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E1C7DD-F3F3-4604-8DEE-2CA7A57B3EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6B3D7A-0113-4D7B-8387-F3561156338F}
+	EndGlobalSection
+EndGlobal

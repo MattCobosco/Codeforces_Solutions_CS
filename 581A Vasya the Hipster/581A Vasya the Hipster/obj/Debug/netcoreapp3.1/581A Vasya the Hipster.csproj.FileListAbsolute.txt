@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\bin\Debug\netcoreapp3.1\581A Vasya the Hipster.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\bin\Debug\netcoreapp3.1\581A Vasya the Hipster.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\bin\Debug\netcoreapp3.1\581A Vasya the Hipster.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\bin\Debug\netcoreapp3.1\581A Vasya the Hipster.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\bin\Debug\netcoreapp3.1\581A Vasya the Hipster.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\bin\Debug\netcoreapp3.1\581A Vasya the Hipster.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\obj\Debug\netcoreapp3.1\581A Vasya the Hipster.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\obj\Debug\netcoreapp3.1\581A Vasya the Hipster.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\obj\Debug\netcoreapp3.1\581A Vasya the Hipster.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\obj\Debug\netcoreapp3.1\581A Vasya the Hipster.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\obj\Debug\netcoreapp3.1\581A Vasya the Hipster.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\obj\Debug\netcoreapp3.1\581A Vasya the Hipster.genruntimeconfig.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\581A Vasya the Hipster\581A Vasya the Hipster\obj\Debug\netcoreapp3.1\581A Vasya the Hipster.csprojAssemblyReference.cache

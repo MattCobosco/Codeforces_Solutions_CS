@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\bin\Debug\netcoreapp3.1\151 A Soft Drinking.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\bin\Debug\netcoreapp3.1\151 A Soft Drinking.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\bin\Debug\netcoreapp3.1\151 A Soft Drinking.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\bin\Debug\netcoreapp3.1\151 A Soft Drinking.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\bin\Debug\netcoreapp3.1\151 A Soft Drinking.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\bin\Debug\netcoreapp3.1\151 A Soft Drinking.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\obj\Debug\netcoreapp3.1\151 A Soft Drinking.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\obj\Debug\netcoreapp3.1\151 A Soft Drinking.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\obj\Debug\netcoreapp3.1\151 A Soft Drinking.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\obj\Debug\netcoreapp3.1\151 A Soft Drinking.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\obj\Debug\netcoreapp3.1\151 A Soft Drinking.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\obj\Debug\netcoreapp3.1\151 A Soft Drinking.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\151 A Soft Drinking\151 A Soft Drinking\obj\Debug\netcoreapp3.1\151 A Soft Drinking.genruntimeconfig.cache

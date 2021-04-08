@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\bin\Debug\netcoreapp3.1\71A Way Too Long Words.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\bin\Debug\netcoreapp3.1\71A Way Too Long Words.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\bin\Debug\netcoreapp3.1\71A Way Too Long Words.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\bin\Debug\netcoreapp3.1\71A Way Too Long Words.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\bin\Debug\netcoreapp3.1\71A Way Too Long Words.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\bin\Debug\netcoreapp3.1\71A Way Too Long Words.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\obj\Debug\netcoreapp3.1\71A Way Too Long Words.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\obj\Debug\netcoreapp3.1\71A Way Too Long Words.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\obj\Debug\netcoreapp3.1\71A Way Too Long Words.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\obj\Debug\netcoreapp3.1\71A Way Too Long Words.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\obj\Debug\netcoreapp3.1\71A Way Too Long Words.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\obj\Debug\netcoreapp3.1\71A Way Too Long Words.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\71A Way Too Long Words\71A Way Too Long Words\obj\Debug\netcoreapp3.1\71A Way Too Long Words.genruntimeconfig.cache

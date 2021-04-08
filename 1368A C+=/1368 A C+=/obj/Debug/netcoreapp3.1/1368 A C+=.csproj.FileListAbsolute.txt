@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\bin\Debug\netcoreapp3.1\1368 A C+=.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\bin\Debug\netcoreapp3.1\1368 A C+=.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\bin\Debug\netcoreapp3.1\1368 A C+=.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\bin\Debug\netcoreapp3.1\1368 A C+=.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\bin\Debug\netcoreapp3.1\1368 A C+=.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\bin\Debug\netcoreapp3.1\1368 A C+=.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\obj\Debug\netcoreapp3.1\1368 A C+=.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\obj\Debug\netcoreapp3.1\1368 A C+=.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\obj\Debug\netcoreapp3.1\1368 A C+=.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\obj\Debug\netcoreapp3.1\1368 A C+=.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\obj\Debug\netcoreapp3.1\1368 A C+=.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\obj\Debug\netcoreapp3.1\1368 A C+=.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1368 A C+=\1368 A C+=\obj\Debug\netcoreapp3.1\1368 A C+=.genruntimeconfig.cache

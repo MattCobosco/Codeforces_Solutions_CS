@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\bin\Debug\netcoreapp3.1\A. Watermelon.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\bin\Debug\netcoreapp3.1\A. Watermelon.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\bin\Debug\netcoreapp3.1\A. Watermelon.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\bin\Debug\netcoreapp3.1\A. Watermelon.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\bin\Debug\netcoreapp3.1\A. Watermelon.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\bin\Debug\netcoreapp3.1\A. Watermelon.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\obj\Debug\netcoreapp3.1\A. Watermelon.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\obj\Debug\netcoreapp3.1\A. Watermelon.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\obj\Debug\netcoreapp3.1\A. Watermelon.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\obj\Debug\netcoreapp3.1\A. Watermelon.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\obj\Debug\netcoreapp3.1\A. Watermelon.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\obj\Debug\netcoreapp3.1\A. Watermelon.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\A. Watermelon\A. Watermelon\obj\Debug\netcoreapp3.1\A. Watermelon.genruntimeconfig.cache
