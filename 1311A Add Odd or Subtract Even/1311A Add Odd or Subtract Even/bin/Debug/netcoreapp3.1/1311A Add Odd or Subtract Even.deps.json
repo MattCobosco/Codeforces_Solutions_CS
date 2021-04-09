@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1311A Add Odd or Subtract Even/1.0.0": {
+        "runtime": {
+          "1311A Add Odd or Subtract Even.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1311A Add Odd or Subtract Even/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
