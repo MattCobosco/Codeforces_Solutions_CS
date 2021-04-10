@@ -15,8 +15,8 @@ namespace _1311A_Add_Odd_or_Subtract_Even
                 int a = int.Parse(ab[0]);
                 int b = int.Parse(ab[1]);
 
-                // I can add an odd int / subtract an even int
-                // dodawać nieparzyste/odejmować parzyste
+                //add an odd int / subtract an even int
+
                 int steps;
 
                 if (a > b)

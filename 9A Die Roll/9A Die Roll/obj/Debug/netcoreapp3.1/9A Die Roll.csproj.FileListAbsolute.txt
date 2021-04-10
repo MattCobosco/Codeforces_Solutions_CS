@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\bin\Debug\netcoreapp3.1\9A Die Roll.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\bin\Debug\netcoreapp3.1\9A Die Roll.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\bin\Debug\netcoreapp3.1\9A Die Roll.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\bin\Debug\netcoreapp3.1\9A Die Roll.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\bin\Debug\netcoreapp3.1\9A Die Roll.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\bin\Debug\netcoreapp3.1\9A Die Roll.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\obj\Debug\netcoreapp3.1\9A Die Roll.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\obj\Debug\netcoreapp3.1\9A Die Roll.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\obj\Debug\netcoreapp3.1\9A Die Roll.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\obj\Debug\netcoreapp3.1\9A Die Roll.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\obj\Debug\netcoreapp3.1\9A Die Roll.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\obj\Debug\netcoreapp3.1\9A Die Roll.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\9A Die Roll\9A Die Roll\obj\Debug\netcoreapp3.1\9A Die Roll.genruntimeconfig.cache
