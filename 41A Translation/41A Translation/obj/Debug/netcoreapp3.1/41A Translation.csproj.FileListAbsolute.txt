@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\bin\Debug\netcoreapp3.1\41A Translation.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\bin\Debug\netcoreapp3.1\41A Translation.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\bin\Debug\netcoreapp3.1\41A Translation.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\bin\Debug\netcoreapp3.1\41A Translation.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\bin\Debug\netcoreapp3.1\41A Translation.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\bin\Debug\netcoreapp3.1\41A Translation.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\obj\Debug\netcoreapp3.1\41A Translation.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\obj\Debug\netcoreapp3.1\41A Translation.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\obj\Debug\netcoreapp3.1\41A Translation.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\obj\Debug\netcoreapp3.1\41A Translation.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\obj\Debug\netcoreapp3.1\41A Translation.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\obj\Debug\netcoreapp3.1\41A Translation.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\41A Translation\41A Translation\obj\Debug\netcoreapp3.1\41A Translation.genruntimeconfig.cache
