@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\41A Translation\\41A Translation\\41A Translation.csproj": {}
+    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\41A Translation\\41A Translation\\41A Translation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\41A Translation\\41A Translation\\41A Translation.csproj": {
+    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\41A Translation\\41A Translation\\41A Translation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\41A Translation\\41A Translation\\41A Translation.csproj",
+        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\41A Translation\\41A Translation\\41A Translation.csproj",
         "projectName": "41A Translation",
-        "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\41A Translation\\41A Translation\\41A Translation.csproj",
+        "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\41A Translation\\41A Translation\\41A Translation.csproj",
         "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\41A Translation\\41A Translation\\obj\\",
+        "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\41A Translation\\41A Translation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
