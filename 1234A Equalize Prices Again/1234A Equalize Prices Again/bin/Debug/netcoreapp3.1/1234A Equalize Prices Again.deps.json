@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1234A Equalize Prices Again/1.0.0": {
+        "runtime": {
+          "1234A Equalize Prices Again.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1234A Equalize Prices Again/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

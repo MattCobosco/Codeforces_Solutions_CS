@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1234A Equalize Prices Again", "1234A Equalize Prices Again\1234A Equalize Prices Again.csproj", "{2EA8D970-128D-4FCB-A36A-24D0F246F97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA8D970-128D-4FCB-A36A-24D0F246F97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA8D970-128D-4FCB-A36A-24D0F246F97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA8D970-128D-4FCB-A36A-24D0F246F97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA8D970-128D-4FCB-A36A-24D0F246F97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAAAAC13-EEED-4FF7-B021-4DCFB429BC7F}
+	EndGlobalSection
+EndGlobal
