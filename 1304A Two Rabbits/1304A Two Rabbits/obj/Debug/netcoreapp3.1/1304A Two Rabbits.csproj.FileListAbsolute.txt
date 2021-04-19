@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\bin\Debug\netcoreapp3.1\1304A Two Rabbits.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\bin\Debug\netcoreapp3.1\1304A Two Rabbits.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\bin\Debug\netcoreapp3.1\1304A Two Rabbits.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\bin\Debug\netcoreapp3.1\1304A Two Rabbits.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\bin\Debug\netcoreapp3.1\1304A Two Rabbits.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\bin\Debug\netcoreapp3.1\1304A Two Rabbits.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\obj\Debug\netcoreapp3.1\1304A Two Rabbits.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\obj\Debug\netcoreapp3.1\1304A Two Rabbits.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\obj\Debug\netcoreapp3.1\1304A Two Rabbits.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\obj\Debug\netcoreapp3.1\1304A Two Rabbits.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\obj\Debug\netcoreapp3.1\1304A Two Rabbits.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\obj\Debug\netcoreapp3.1\1304A Two Rabbits.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1304A Two Rabbits\1304A Two Rabbits\obj\Debug\netcoreapp3.1\1304A Two Rabbits.genruntimeconfig.cache
