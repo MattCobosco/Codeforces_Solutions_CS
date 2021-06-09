@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\bin\Debug\netcoreapp3.1\1328A Divisibility Problem.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\bin\Debug\netcoreapp3.1\1328A Divisibility Problem.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\bin\Debug\netcoreapp3.1\1328A Divisibility Problem.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\bin\Debug\netcoreapp3.1\1328A Divisibility Problem.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\bin\Debug\netcoreapp3.1\1328A Divisibility Problem.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\bin\Debug\netcoreapp3.1\1328A Divisibility Problem.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\obj\Debug\netcoreapp3.1\1328A Divisibility Problem.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\obj\Debug\netcoreapp3.1\1328A Divisibility Problem.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\obj\Debug\netcoreapp3.1\1328A Divisibility Problem.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\obj\Debug\netcoreapp3.1\1328A Divisibility Problem.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\obj\Debug\netcoreapp3.1\1328A Divisibility Problem.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\obj\Debug\netcoreapp3.1\1328A Divisibility Problem.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1328A Divisibility Problem\1328A Divisibility Problem\obj\Debug\netcoreapp3.1\1328A Divisibility Problem.genruntimeconfig.cache

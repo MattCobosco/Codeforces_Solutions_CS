@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\bin\Debug\netcoreapp3.1\1283A Minutes Before the New Year.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\bin\Debug\netcoreapp3.1\1283A Minutes Before the New Year.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\bin\Debug\netcoreapp3.1\1283A Minutes Before the New Year.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\bin\Debug\netcoreapp3.1\1283A Minutes Before the New Year.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\bin\Debug\netcoreapp3.1\1283A Minutes Before the New Year.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\bin\Debug\netcoreapp3.1\1283A Minutes Before the New Year.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\obj\Debug\netcoreapp3.1\1283A Minutes Before the New Year.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\obj\Debug\netcoreapp3.1\1283A Minutes Before the New Year.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\obj\Debug\netcoreapp3.1\1283A Minutes Before the New Year.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\obj\Debug\netcoreapp3.1\1283A Minutes Before the New Year.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\obj\Debug\netcoreapp3.1\1283A Minutes Before the New Year.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\obj\Debug\netcoreapp3.1\1283A Minutes Before the New Year.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1283A Minutes Before the New Year\1283A Minutes Before the New Year\obj\Debug\netcoreapp3.1\1283A Minutes Before the New Year.genruntimeconfig.cache
