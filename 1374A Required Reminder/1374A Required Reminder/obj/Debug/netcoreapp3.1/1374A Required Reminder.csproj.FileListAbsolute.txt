@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\bin\Debug\netcoreapp3.1\1374A Required Reminder.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\bin\Debug\netcoreapp3.1\1374A Required Reminder.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\bin\Debug\netcoreapp3.1\1374A Required Reminder.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\bin\Debug\netcoreapp3.1\1374A Required Reminder.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\bin\Debug\netcoreapp3.1\1374A Required Reminder.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\bin\Debug\netcoreapp3.1\1374A Required Reminder.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\obj\Debug\netcoreapp3.1\1374A Required Reminder.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\obj\Debug\netcoreapp3.1\1374A Required Reminder.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\obj\Debug\netcoreapp3.1\1374A Required Reminder.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\obj\Debug\netcoreapp3.1\1374A Required Reminder.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\obj\Debug\netcoreapp3.1\1374A Required Reminder.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\obj\Debug\netcoreapp3.1\1374A Required Reminder.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1374A Required Reminder\1374A Required Reminder\obj\Debug\netcoreapp3.1\1374A Required Reminder.genruntimeconfig.cache
