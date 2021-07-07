@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1360A Minimal Square\\1360A Minimal Square\\1360A Minimal Square.csproj",
+      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1360A Minimal Square\\1360A Minimal Square\\1360A Minimal Square.csproj",
       "projectName": "1360A Minimal Square",
-      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1360A Minimal Square\\1360A Minimal Square\\1360A Minimal Square.csproj",
+      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1360A Minimal Square\\1360A Minimal Square\\1360A Minimal Square.csproj",
       "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1360A Minimal Square\\1360A Minimal Square\\obj\\",
+      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1360A Minimal Square\\1360A Minimal Square\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",

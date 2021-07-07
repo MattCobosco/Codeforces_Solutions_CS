@@ -6,7 +6,7 @@ namespace _732A_Buy_a_Shovel
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine().Split(); // convert input to string
+            string[] input = Console.ReadLine().Split(); // convert input to string array
             int k = int.Parse(input[0]); // out k - price of 1 shovel
             int r = int.Parse(input[1]); // out r - coin different from 10
 

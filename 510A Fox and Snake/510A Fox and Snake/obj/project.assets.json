@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\510A Fox and Snake\\510A Fox and Snake\\510A Fox and Snake.csproj",
+      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\510A Fox and Snake\\510A Fox and Snake\\510A Fox and Snake.csproj",
       "projectName": "510A Fox and Snake",
-      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\510A Fox and Snake\\510A Fox and Snake\\510A Fox and Snake.csproj",
+      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\510A Fox and Snake\\510A Fox and Snake\\510A Fox and Snake.csproj",
       "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\510A Fox and Snake\\510A Fox and Snake\\obj\\",
+      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\510A Fox and Snake\\510A Fox and Snake\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",

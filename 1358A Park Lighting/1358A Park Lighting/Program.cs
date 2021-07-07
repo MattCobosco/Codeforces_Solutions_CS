@@ -12,7 +12,7 @@ namespace _1358A_Park_Lighting
 
             for (int i = 0; i < t; i++) // loop through cases
             {
-                string[] input = Console.ReadLine().Split(); // read case as string
+                string[] input = Console.ReadLine().Split(); // read case as string array
 
                 int n = int.Parse(input[0]); // parse this string into n and m ints
                 int m = int.Parse(input[1]);

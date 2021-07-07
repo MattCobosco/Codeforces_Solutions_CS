@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\732A Buy a Shovel\\732A Buy a Shovel\\732A Buy a Shovel.csproj",
+      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\732A Buy a Shovel\\732A Buy a Shovel\\732A Buy a Shovel.csproj",
       "projectName": "732A Buy a Shovel",
-      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\732A Buy a Shovel\\732A Buy a Shovel\\732A Buy a Shovel.csproj",
+      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\732A Buy a Shovel\\732A Buy a Shovel\\732A Buy a Shovel.csproj",
       "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\732A Buy a Shovel\\732A Buy a Shovel\\obj\\",
+      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\732A Buy a Shovel\\732A Buy a Shovel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",

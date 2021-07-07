@@ -10,9 +10,9 @@ namespace _1360A_Minimal_Square
 
             for (int i = 0; i < t; i++) // loop through cases
             {
-                string[] caseInput = Console.ReadLine().Split(); // read case as string
+                string[] caseInput = Console.ReadLine().Split(); // read case as string array
 
-                int a = int.Parse(caseInput[0]); // out a and b from caseInput string
+                int a = int.Parse(caseInput[0]); // out a and b from caseInput
                 int b = int.Parse(caseInput[1]);
 
                 int min = Math.Min(a, b); // find min side lenght

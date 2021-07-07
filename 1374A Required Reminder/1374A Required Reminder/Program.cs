@@ -10,9 +10,9 @@ namespace _1374A_Required_Reminder
 
             for (int i = 0; i < t; i++) // loop through test cases
             {
-                string[] inputCase = Console.ReadLine().Split(); // read test case as string
+                string[] inputCase = Console.ReadLine().Split(); // read test case as string array
 
-                int x = int.Parse(inputCase[0]); // parse each test case string into ints x,y,n
+                int x = int.Parse(inputCase[0]); // out ints x,y,n from the array
                 int y = int.Parse(inputCase[1]);
                 int n = int.Parse(inputCase[2]);
 

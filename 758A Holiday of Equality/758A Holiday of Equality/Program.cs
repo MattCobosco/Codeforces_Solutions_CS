@@ -13,7 +13,7 @@ namespace _758A_Holiday_of_Equality
 
             int n = Convert.ToInt32(Console.ReadLine()); // read number of cases from input (not used in the code - substituted by input.Length)
 
-            string[] input = Console.ReadLine().Split(); // read the citizen's account balances from input as a string
+            string[] input = Console.ReadLine().Split(); // read the citizen's account balances from input as a string array
 
             int max = 0; // set max to 0
             for (int i = 0; i < input.Length; i++) // first loop to determine the max value
