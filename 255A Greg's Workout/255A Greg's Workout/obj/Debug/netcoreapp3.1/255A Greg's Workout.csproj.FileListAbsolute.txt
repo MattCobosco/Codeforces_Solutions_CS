@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\bin\Debug\netcoreapp3.1\255A Greg's Workout.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\bin\Debug\netcoreapp3.1\255A Greg's Workout.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\bin\Debug\netcoreapp3.1\255A Greg's Workout.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\bin\Debug\netcoreapp3.1\255A Greg's Workout.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\bin\Debug\netcoreapp3.1\255A Greg's Workout.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\bin\Debug\netcoreapp3.1\255A Greg's Workout.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\obj\Debug\netcoreapp3.1\255A Greg's Workout.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\obj\Debug\netcoreapp3.1\255A Greg's Workout.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\obj\Debug\netcoreapp3.1\255A Greg's Workout.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\obj\Debug\netcoreapp3.1\255A Greg's Workout.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\obj\Debug\netcoreapp3.1\255A Greg's Workout.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\obj\Debug\netcoreapp3.1\255A Greg's Workout.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\255A Greg's Workout\255A Greg's Workout\obj\Debug\netcoreapp3.1\255A Greg's Workout.genruntimeconfig.cache
