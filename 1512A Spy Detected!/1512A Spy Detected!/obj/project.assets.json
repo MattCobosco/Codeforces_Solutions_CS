@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1374A Required Reminder\\1374A Required Reminder\\1374A Required Reminder.csproj",
-      "projectName": "1374A Required Reminder",
-      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1374A Required Reminder\\1374A Required Reminder\\1374A Required Reminder.csproj",
+      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1512A Spy Detected!\\1512A Spy Detected!\\1512A Spy Detected!.csproj",
+      "projectName": "1512A Spy Detected!",
+      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1512A Spy Detected!\\1512A Spy Detected!\\1512A Spy Detected!.csproj",
       "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1374A Required Reminder\\1374A Required Reminder\\obj\\",
+      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1512A Spy Detected!\\1512A Spy Detected!\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",

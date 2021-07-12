@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1512A Spy Detected!/1.0.0": {
+        "runtime": {
+          "1512A Spy Detected!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1512A Spy Detected!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

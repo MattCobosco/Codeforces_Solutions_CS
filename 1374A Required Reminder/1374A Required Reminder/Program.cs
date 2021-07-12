@@ -6,22 +6,26 @@ namespace _1374A_Required_Reminder
     {
         static void Main(string[] args)
         {
-            int t = Convert.ToInt32(Console.ReadLine()); // read number of cases from input
+            int t = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 0; i < t; i++) // loop through test cases
+            for (int i = 0; i < t; i++)
             {
-                string[] inputCase = Console.ReadLine().Split(); // read test case as string array
+                string[] inputCase = Console.ReadLine().Split();
 
-                int x = int.Parse(inputCase[0]); // out ints x,y,n from the array
+                int x = int.Parse(inputCase[0]);
                 int y = int.Parse(inputCase[1]);
                 int n = int.Parse(inputCase[2]);
 
-                while (n % x != y) // as long as n mod x isn't equal to y decrease n by 1
+                int cnt = n / x;
+
+                int ans = x * cnt + y;
+
+                if (ans > n)
                 {
-                    n--;
+                    ans -= x;
                 }
 
-                Console.WriteLine(n); // return n
+                Console.WriteLine(ans);
             }
         }
     }
