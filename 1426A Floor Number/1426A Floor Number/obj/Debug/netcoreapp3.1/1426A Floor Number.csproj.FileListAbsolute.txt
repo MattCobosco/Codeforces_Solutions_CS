@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\bin\Debug\netcoreapp3.1\1426A Floor Number.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\bin\Debug\netcoreapp3.1\1426A Floor Number.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\bin\Debug\netcoreapp3.1\1426A Floor Number.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\bin\Debug\netcoreapp3.1\1426A Floor Number.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\bin\Debug\netcoreapp3.1\1426A Floor Number.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\bin\Debug\netcoreapp3.1\1426A Floor Number.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\obj\Debug\netcoreapp3.1\1426A Floor Number.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\obj\Debug\netcoreapp3.1\1426A Floor Number.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\obj\Debug\netcoreapp3.1\1426A Floor Number.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\obj\Debug\netcoreapp3.1\1426A Floor Number.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\obj\Debug\netcoreapp3.1\1426A Floor Number.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\obj\Debug\netcoreapp3.1\1426A Floor Number.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\1426A Floor Number\1426A Floor Number\obj\Debug\netcoreapp3.1\1426A Floor Number.genruntimeconfig.cache
