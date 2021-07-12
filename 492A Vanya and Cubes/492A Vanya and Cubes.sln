@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "492A Vanya and Cubes", "492A Vanya and Cubes\492A Vanya and Cubes.csproj", "{AEB7CAB2-76E6-4639-BE9D-BBEC709B9D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB7CAB2-76E6-4639-BE9D-BBEC709B9D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB7CAB2-76E6-4639-BE9D-BBEC709B9D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB7CAB2-76E6-4639-BE9D-BBEC709B9D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB7CAB2-76E6-4639-BE9D-BBEC709B9D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FC79F3-0E79-4337-B331-523A2499AF9E}
+	EndGlobalSection
+EndGlobal
