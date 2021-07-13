@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "630A Again Twenty Five!/1.0.0": {
+        "runtime": {
+          "630A Again Twenty Five!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "630A Again Twenty Five!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
