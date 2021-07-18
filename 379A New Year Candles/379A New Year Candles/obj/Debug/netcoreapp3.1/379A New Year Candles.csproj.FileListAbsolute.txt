@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\bin\Debug\netcoreapp3.1\379A New Year Candles.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\bin\Debug\netcoreapp3.1\379A New Year Candles.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\bin\Debug\netcoreapp3.1\379A New Year Candles.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\bin\Debug\netcoreapp3.1\379A New Year Candles.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\bin\Debug\netcoreapp3.1\379A New Year Candles.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\bin\Debug\netcoreapp3.1\379A New Year Candles.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\obj\Debug\netcoreapp3.1\379A New Year Candles.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\obj\Debug\netcoreapp3.1\379A New Year Candles.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\obj\Debug\netcoreapp3.1\379A New Year Candles.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\obj\Debug\netcoreapp3.1\379A New Year Candles.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\obj\Debug\netcoreapp3.1\379A New Year Candles.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\obj\Debug\netcoreapp3.1\379A New Year Candles.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\379A New Year Candles\379A New Year Candles\obj\Debug\netcoreapp3.1\379A New Year Candles.genruntimeconfig.cache

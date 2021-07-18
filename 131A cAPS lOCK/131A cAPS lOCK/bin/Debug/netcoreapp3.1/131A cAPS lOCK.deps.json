@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "131A cAPS lOCK/1.0.0": {
+        "runtime": {
+          "131A cAPS lOCK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "131A cAPS lOCK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
