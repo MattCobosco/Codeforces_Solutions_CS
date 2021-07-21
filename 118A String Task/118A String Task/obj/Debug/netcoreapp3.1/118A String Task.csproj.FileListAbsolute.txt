@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\obj\Debug\netcoreapp3.1\118A String Task.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\obj\Debug\netcoreapp3.1\118A String Task.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\obj\Debug\netcoreapp3.1\118A String Task.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\obj\Debug\netcoreapp3.1\118A String Task.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\bin\Debug\netcoreapp3.1\118A String Task.exe
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\bin\Debug\netcoreapp3.1\118A String Task.deps.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\bin\Debug\netcoreapp3.1\118A String Task.runtimeconfig.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\bin\Debug\netcoreapp3.1\118A String Task.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\bin\Debug\netcoreapp3.1\118A String Task.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\bin\Debug\netcoreapp3.1\118A String Task.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\obj\Debug\netcoreapp3.1\118A String Task.dll
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\obj\Debug\netcoreapp3.1\118A String Task.pdb
+C:\Users\Mati\Desktop\Competitive programming\Codeforces\118A String Task\118A String Task\obj\Debug\netcoreapp3.1\118A String Task.genruntimeconfig.cache
