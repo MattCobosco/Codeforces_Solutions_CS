@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\58A Chat room\\58A Chat room\\58A Chat room.csproj",
+      "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\58A Chat room\\58A Chat room\\58A Chat room.csproj",
       "projectName": "58A Chat room",
-      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\58A Chat room\\58A Chat room\\58A Chat room.csproj",
+      "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\58A Chat room\\58A Chat room\\58A Chat room.csproj",
       "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\58A Chat room\\58A Chat room\\obj\\",
+      "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\58A Chat room\\58A Chat room\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",

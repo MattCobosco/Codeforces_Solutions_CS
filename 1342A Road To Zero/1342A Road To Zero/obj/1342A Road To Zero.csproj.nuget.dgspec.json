@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1342A Road To Zero\\1342A Road To Zero\\1342A Road To Zero.csproj": {}
+    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1342A Road To Zero\\1342A Road To Zero\\1342A Road To Zero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1342A Road To Zero\\1342A Road To Zero\\1342A Road To Zero.csproj": {
+    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1342A Road To Zero\\1342A Road To Zero\\1342A Road To Zero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1342A Road To Zero\\1342A Road To Zero\\1342A Road To Zero.csproj",
+        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1342A Road To Zero\\1342A Road To Zero\\1342A Road To Zero.csproj",
         "projectName": "1342A Road To Zero",
-        "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1342A Road To Zero\\1342A Road To Zero\\1342A Road To Zero.csproj",
+        "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1342A Road To Zero\\1342A Road To Zero\\1342A Road To Zero.csproj",
         "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\1342A Road To Zero\\1342A Road To Zero\\obj\\",
+        "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1342A Road To Zero\\1342A Road To Zero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
