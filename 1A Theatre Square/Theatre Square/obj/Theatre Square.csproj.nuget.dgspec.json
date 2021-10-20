@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Theatre Square\\Theatre Square\\Theatre Square.csproj": {}
+    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1A Theatre Square\\Theatre Square\\Theatre Square.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Theatre Square\\Theatre Square\\Theatre Square.csproj": {
+    "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1A Theatre Square\\Theatre Square\\Theatre Square.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Theatre Square\\Theatre Square\\Theatre Square.csproj",
+        "projectUniqueName": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1A Theatre Square\\Theatre Square\\Theatre Square.csproj",
         "projectName": "Theatre Square",
-        "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Theatre Square\\Theatre Square\\Theatre Square.csproj",
+        "projectPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1A Theatre Square\\Theatre Square\\Theatre Square.csproj",
         "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Theatre Square\\Theatre Square\\obj\\",
+        "outputPath": "C:\\Users\\Mati\\Desktop\\Competitive programming\\Codeforces\\Codeforces_Solutions_CS\\1A Theatre Square\\Theatre Square\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
